@@ -131,3 +131,5 @@ header-includes:
 [0] Методические материалы курса
 
 [1] Права доступа: https://codechick.io/tutorials/unix-linux/unix-linux-permissions
+
+[2] группы опльзователей https://techrocks.ru/2020/01/16/linux-user-groups-explained/
