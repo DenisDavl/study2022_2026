@@ -40,8 +40,6 @@ header-includes:
 :::
 ::: {.column width="30%"}
 
-![](./image/0.jpg)
-
 :::
 ::::::::::::::
 
