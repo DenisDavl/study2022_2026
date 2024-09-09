@@ -165,7 +165,6 @@ header-includes:
 
 Просмотрели файлы “var/log/http/error_log”, “/var/log/http/access_log” и "/var/log/audit/audit.log” и выяснили, что запись появилась в последнем файле
 
-![(рис. 14. Содержание файла var/log/audit/audit.log)](image/image14.PNG){ #fig:014 width=70% height=70% }
 
 ## Выполнение лабораторной работы
 
